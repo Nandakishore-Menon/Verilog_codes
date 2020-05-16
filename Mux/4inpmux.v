@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-
+# 4 input mux using 2 input mux module
 module mux2 (in0,in1,select,out);
 
 input in0,in1,select;
